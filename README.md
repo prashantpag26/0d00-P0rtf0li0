@@ -21,7 +21,7 @@
 **Description:** A French retailer specializing in irrigation systems and equipment. The website offers detailed product catalogs, installation guides, and customer support services.
 
 ### **6. AlbannahQ**
-**Website:** [AlbannahQ](http://albannahq.fortiddns.com:8079/web/login)  
+**Website:** [AlbannahQ](http://albannahq.fortiddns.com)  
 **Description:** A secure login portal for a business platform providing various internal management tools and services.
 
 ### **7. Monday.com**
@@ -72,11 +72,7 @@
 **Website:** [Albasini](https://albasini.cl/)  
 **Description:** An e-commerce platform for a retail store in Chile, offering a variety of products.
 
-### **19. Odoo ERP Chile**
-**Website:** [Odoo ERP](https://odooerp.cl/)  
-**Description:** A site offering Odoo ERP solutions tailored for businesses in Chile, providing implementation and support services.
-
-### **20. Geekz**
+### **19. Geekz**
 **Website:** [Geekz](https://geekz.cl/)  
 **Description:** A tech-focused site offering gadgets, electronics, and accessories with a user-friendly shopping experience.
 
